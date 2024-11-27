@@ -33,3 +33,4 @@ volumes: # this line must be here if you want to create the volumes
   <volume name2>:
   ...:
 networks:
+ <name of network>
